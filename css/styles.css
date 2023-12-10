@@ -165,7 +165,7 @@ img {
     height: 56px;
     min-width: 169px;
     display: block;
-    margin: 60px auto;
+    margin: 40px auto 0;
 }
 .button:hover, .button:focus {
     background-color: var(--HoverFocus-color);
