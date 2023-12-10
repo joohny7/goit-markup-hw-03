@@ -136,7 +136,6 @@ img {
     padding: 32px 16px;
     border: 1px solid var(--border-color);
     border-top: none;
-    margin-bottom: 8px;
 }
 .hero-image {
     background-color: var(--logo-color2);
@@ -166,7 +165,7 @@ img {
     height: 56px;
     min-width: 169px;
     display: block;
-    margin: 0 auto;
+    margin: 60px auto;
 }
 .button:hover, .button:focus {
     background-color: var(--HoverFocus-color);
